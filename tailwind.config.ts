@@ -17,6 +17,10 @@ export default {
 				snow: '#FFFAFA',
 				gold: '#FFD700',
 			},
+			fontFamily: {
+				inter: ['Inter', 'sans-serif'],
+				alumniSansPinstripe: ['Alumni Sans Pinstripe', 'sans-serif'],
+			},
 		},
 	},
 	plugins: [],
