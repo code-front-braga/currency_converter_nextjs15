@@ -10,7 +10,7 @@ export default function HomePage() {
 					backgroundSize: '120px',
 				}}
 			/>
-			<div className="absolute inset-0 bg-matteBlack bg-opacity-80" />
+			<div className="absolute inset-0 bg-matteBlack bg-opacity-85" />
 
 			<header className="w-full fixed top-[8rem]">
 				<div className="flex items-center justify-center">
