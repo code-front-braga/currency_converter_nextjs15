@@ -2,7 +2,7 @@ import clsx from 'clsx';
 import './globals.css';
 
 import { Inter, Alumni_Sans_Pinstripe } from 'next/font/google';
-import { ThemeProvider } from './components/theme-provider';
+import { ThemeProvider } from '../components/theme-provider';
 
 export const inter = Inter({ subsets: ['latin'], weight: ['400', '700'] });
 export const alumniSansPinstripe = Alumni_Sans_Pinstripe({
