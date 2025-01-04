@@ -10,10 +10,15 @@ export default {
 	theme: {
 		extend: {
 			colors: {
+				nero: '#171717',
 				matteBlack: '#232323',
 				orangeRed: '#FF4500',
 				lime: '#00FF00',
-				orchid: '#DA70D6',
+				rebeccaPurple: '#663399',
+				mediumPurple: '#9370DB',
+				lavender: '#E6E6FA',
+				whiteSmoke: '#F5F5F5',
+				ghostWhite: '#F8F8FF',
 				snow: '#FFFAFA',
 				gold: '#FFD700',
 			},
